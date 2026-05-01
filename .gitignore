@@ -1,0 +1,18 @@
+# Compiled binaries
+*.o
+*.out
+xo_game
+pyramid_game
+word_game
+
+# VS Code
+.vscode/
+
+# Windows executables
+*.exe
+
+# macOS
+.DS_Store
+
+# Temp files
+tempCodeRunnerFile.cpp
