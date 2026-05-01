@@ -76,7 +76,7 @@ g++ -std=c++17 main.cpp -o pyramid_game
 ### 3. Word Tic-Tac-Toe
 
 A 3×3 board where each cell holds a **letter (A–Z)**.  
-A player wins when any row, column, or diagonal forms a valid **3-letter English word** from `dic.txt`.  
+A player wins when any row, column, or diagonal forms a valid **3-letter English word** from `Dictionary.h`.  
 Both players can place any letter on any empty cell each turn.
 
 **Compile & Run:**
@@ -88,8 +88,6 @@ g++ -std=c++17 main.cpp WordTicTacToe.cpp -o word_game
 ```
 
 **Player types:** Human · Random Computer
-
-> **Note:** `dic.txt` must be in the same directory as the executable.
 
 ---
 
